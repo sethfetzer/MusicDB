@@ -1,0 +1,16 @@
+C:\Users\Seth\Documents\MusicExplorerSolution\bin\Debug\MusicExplorer.exe.config
+C:\Users\Seth\Documents\MusicExplorerSolution\bin\Debug\MusicExplorer.exe
+C:\Users\Seth\Documents\MusicExplorerSolution\bin\Debug\MusicExplorer.pdb
+C:\Users\Seth\Documents\MusicExplorerSolution\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Seth\Documents\MusicExplorerSolution\obj\Debug\MusicExplorer.AlbumDetails.resources
+C:\Users\Seth\Documents\MusicExplorerSolution\obj\Debug\MusicExplorer.FormAbout.resources
+C:\Users\Seth\Documents\MusicExplorerSolution\obj\Debug\MusicExplorer.FormAmazonCredentials.resources
+C:\Users\Seth\Documents\MusicExplorerSolution\obj\Debug\MusicExplorer.FormMain.resources
+C:\Users\Seth\Documents\MusicExplorerSolution\obj\Debug\MusicExplorer.Properties.Resources.resources
+C:\Users\Seth\Documents\MusicExplorerSolution\obj\Debug\ResGen.read.1.tlog
+C:\Users\Seth\Documents\MusicExplorerSolution\obj\Debug\ResGen.write.1.tlog
+C:\Users\Seth\Documents\MusicExplorerSolution\obj\Debug\MusicExplorer.exe
+C:\Users\Seth\Documents\MusicExplorerSolution\obj\Debug\MusicExplorer.pdb
+\\lappy\Users\Seth\Documents\MusicExplorerSolution\bin\Debug\MusicExplorer.exe.config
+\\lappy\Users\Seth\Documents\MusicExplorerSolution\obj\Debug\MusicExplorer.exe
+\\lappy\Users\Seth\Documents\MusicExplorerSolution\obj\Debug\MusicExplorer.pdb
